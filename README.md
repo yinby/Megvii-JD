@@ -16,3 +16,5 @@ Face++旷视 Skeleton team 全职/实习生招聘
         4.学习能力强。
 
 有意者请将简历发至以下邮箱： wangzhicheng@megvii.com
+
+PS：也可以内推detection组，其他组的话可以帮内推，但要走流程。
